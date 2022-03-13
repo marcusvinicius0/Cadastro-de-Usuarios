@@ -14,7 +14,6 @@
 <br>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">CSS</a>;
 <br>
-<br>
 ##
 🤝 Colaboradores
 <br>
