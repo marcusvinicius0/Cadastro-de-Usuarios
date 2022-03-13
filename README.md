@@ -16,7 +16,6 @@
 <br>
 <br>
 ##
-    
 🤝 Colaboradores
 <br>
 <a href="https://www.linkedin.com/in/marcusviniciusbeghelisantos/" target="_blank">Marcus Vinícius</a>
